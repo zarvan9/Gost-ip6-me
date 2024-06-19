@@ -21,14 +21,12 @@
 کلون کردن مخزن:
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/masoudgb/Gost-ip6/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/zarvan9/Gost-ip6-me/main/install.sh)
    ```
 
  نسخه سفارشی:
 
-```bash
-bash <(curl -Ls https://github.com/masoudgb/Gost-ip6/raw/v2.1.7/Gost.sh)
-   ```
+
 
 
 دستورات روی صفحه نمایش را دنبال کنید تا تونل‌های Gost خود را بر اساس ترجیحات شما پیکربندی کنید.
