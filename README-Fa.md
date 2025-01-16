@@ -29,18 +29,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/zarvan9/Gost-ip6-me/main/insta
 
 
 
-دستورات روی صفحه نمایش را دنبال کنید تا تونل‌های Gost خود را بر اساس ترجیحات شما پیکربندی کنید.
-
-## آموزش پروژه
-
-[![آموزش یوتیوب](https://img.youtube.com/vi/LJYVWH8GyKM/0.jpg)](https://youtu.be/LJYVWH8GyKM)
-
-
----
-
-[![آموزش یوتیوب](https://img.youtube.com/vi/Qlz61mlkQ5A/0.jpg)](https://youtu.be/Qlz61mlkQ5A)
-
-
 **گزینه‌ها:**
 
 اسکریپت گزینه‌های زیر را ارائه می‌دهد:
@@ -69,8 +57,5 @@ bash <(curl -Ls https://raw.githubusercontent.com/zarvan9/Gost-ip6-me/main/insta
 - ایجاد شده توسط Masoud Gb
 - با سپاس ویژه از Hamid Router
 
-## نسخه
-
-اسکریپت Gost IP6 v2.2.0
 
 ---
