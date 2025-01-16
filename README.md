@@ -28,17 +28,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/zarvan9/Gost-ip6-me/main/insta
    ```
 
 
-Follow the on-screen prompts to configure Gost tunnels according to your preferences.
-
-
-## Project Tutorial
-
-[![YouTube Tutorial](https://img.youtube.com/vi/LJYVWH8GyKM/0.jpg)](https://youtu.be/LJYVWH8GyKM)
-
----
-
-[![YouTube Tutorial](https://img.youtube.com/vi/Qlz61mlkQ5A/0.jpg)](https://youtu.be/Qlz61mlkQ5A)
-
 
 **Options:**
 
